@@ -1,4 +1,4 @@
-# Aplicativo conversor de moedas
+<h1 align="center"> Aplicativo conversor de moedas </h1>
 
 ## Sobre o aplicativo
 
@@ -7,8 +7,9 @@ valores monetarios(Real, Dólar e Euro) de acordo com a a taxa cambial díaria
 fornecido pelo Banco Central.
 
 ## Layout Android
-![Mobile 1] (https://github.com/victor-gonn/assets/blob/master/conversor%20de%20moeda/mobile1.png) 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/victor-gonn/assets/blob/master/conversor%20de%20moeda/mobile1.png" widh="500" height="500" >  <img src="https://github.com/victor-gonn/assets/blob/master/conversor%20de%20moeda/mobile%202.png" widh="500" height="500" >
+
+
 
 # Tecnologias utilizadas
 
