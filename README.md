@@ -1,16 +1,16 @@
-# exchance1
+<h1 align="center"> Aplicativo conversor de moedas </h1>
 
-A new Flutter project.
+## Sobre o aplicativo
 
-## Getting Started
+Um aplicativo para android que por meio de uma API converte 3 tipos de 
+valores monetarios(Real, Dólar e Euro) de acordo com a a taxa cambial díaria 
+fornecido pelo Banco Central.
 
-This project is a starting point for a Flutter application.
+## Layout Android
+<img src="https://github.com/victor-gonn/assets/blob/master/conversor%20de%20moeda/mobile1.png" widh="500" height="500" >  <img src="https://github.com/victor-gonn/assets/blob/master/conversor%20de%20moeda/mobile%202.png" widh="500" height="500" >
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Tecnologias utilizadas
+
+ - Flutter
